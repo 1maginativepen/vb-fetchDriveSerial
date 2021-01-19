@@ -1,0 +1,11 @@
+G:\IdessIT\Bitbucket\vb-fetchDriveSerial\vb-fetchDriveSerial\bin\Debug\vb-fetchDriveSerial.exe
+G:\IdessIT\Bitbucket\vb-fetchDriveSerial\vb-fetchDriveSerial\bin\Debug\vb-fetchDriveSerial.pdb
+G:\IdessIT\Bitbucket\vb-fetchDriveSerial\vb-fetchDriveSerial\bin\Debug\vb-fetchDriveSerial.xml
+G:\IdessIT\Bitbucket\vb-fetchDriveSerial\vb-fetchDriveSerial\obj\Debug\vb-fetchDriveSerial.vbprojAssemblyReference.cache
+G:\IdessIT\Bitbucket\vb-fetchDriveSerial\vb-fetchDriveSerial\obj\Debug\vb_fetchDriveSerial.Form1.resources
+G:\IdessIT\Bitbucket\vb-fetchDriveSerial\vb-fetchDriveSerial\obj\Debug\vb_fetchDriveSerial.Resources.resources
+G:\IdessIT\Bitbucket\vb-fetchDriveSerial\vb-fetchDriveSerial\obj\Debug\vb-fetchDriveSerial.vbproj.GenerateResource.cache
+G:\IdessIT\Bitbucket\vb-fetchDriveSerial\vb-fetchDriveSerial\obj\Debug\vb-fetchDriveSerial.vbproj.CoreCompileInputs.cache
+G:\IdessIT\Bitbucket\vb-fetchDriveSerial\vb-fetchDriveSerial\obj\Debug\vb-fetchDriveSerial.exe
+G:\IdessIT\Bitbucket\vb-fetchDriveSerial\vb-fetchDriveSerial\obj\Debug\vb-fetchDriveSerial.xml
+G:\IdessIT\Bitbucket\vb-fetchDriveSerial\vb-fetchDriveSerial\obj\Debug\vb-fetchDriveSerial.pdb
